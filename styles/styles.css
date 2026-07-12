@@ -20,13 +20,11 @@ h3 {
   color: rgb(65, 65, 239);
 }
 
-p {
-  font-size: 1.1rem;
-}
-
+p,
 details {
   font-size: 1.1rem;
 }
+
 hr {
   width: 20vw;
   height: 2px;
