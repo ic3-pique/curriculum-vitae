@@ -1,4 +1,4 @@
-#Curriculum Vitae
+# Curriculum Vitae
 ---
 
 This is a simple web page showing of my curriculum vitae. The page shows my biodata information, the school I attended, my work experience, hobbies, and the likes.
